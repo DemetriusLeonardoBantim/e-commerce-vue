@@ -1,0 +1,20 @@
+{
+  "id": "speaker",
+  "nome": "Speaker",
+  "preco": 899,
+  "descricao": "Bom demais",
+  "estoque": 12,
+  "img": "./api/produtos/speaker/speaker-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "Fabio",
+      "estrelas": 5,
+      "descricao": "Gostei demais"
+    },
+    {
+      "nome": "Pedro",
+      "estrelas": 4,
+      "descricao": "Gostei demais"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "smartwatch",
+  "nome": "Smartwatch",
+  "preco": 899,
+  "descricao": "Bom demais",
+  "estoque": 12,
+  "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
+  "avaliacoes": [
+    {
+      "nome": "Fabio",
+      "estrelas": 5,
+      "descricao": "Gostei demais"
+    },
+    {
+      "nome": "Pedro",
+      "estrelas": 4,
+      "descricao": "Gostei demais"
+    }
+  ]
+}
